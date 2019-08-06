@@ -1,0 +1,22 @@
+li {
+    display: inline-flex;
+    align-items: center
+}
+
+li .listItem {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+    color: #142b1f;
+    margin: 5px 10px;
+}
+
+li .deleteButton {
+    background-color: #274f3a;
+    color: #fbfbf5;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 14px;
+    margin-left: 10px;
+    border-radius: 8px;
+    height: 24px;
+    cursor: pointer;
+}

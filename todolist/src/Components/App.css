@@ -1,0 +1,24 @@
+body {
+    width: 100%;
+    background-image: url('../images/background_forest.jpg');
+    background-size: cover;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    color: #274f3a;
+    font-size: 65px;
+    width: 450px;
+    margin: 45px auto;
+}
+
+h2 {
+    font-family: 'Neucha', cursive;
+    color: #274f3a;
+    font-size: 35px;
+    padding-left: 50px;
+    padding-top: 20px;
+    margin-bottom: 15px;
+}
+
